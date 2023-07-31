@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Estudante EBAC
+- 🌱 Estou aprendendo Wordpress e Língua Japonesa
+- 🤔 Estou procurando ajuda para aprimorar meus conhecimentos em desenvolvimento frontend.
+- 📫 Contado e-mail: ketlindeborbapilar@gmail.com
+- ⚡ Fun Fact: Amo gatos!!🐈
