@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 #### Estudante EBAC
 - 🌱 Estou aprendendo Wordpress e Língua Japonesa
 - 🤔 Estou procurando ajuda para aprimorar meus conhecimentos em desenvolvimento frontend.
-- 📫 Contado e-mail: ketlindeborbapilar@gmail.com
+- 📫 Contato e-mail: ketlindeborbapilar@gmail.com
 - ⚡ Fun Fact: Amo gatos!!🐈
